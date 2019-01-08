@@ -22,10 +22,6 @@ class ReviewController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
-    {
-        //
-    }
 
     /**
      * Store a newly created resource in storage.
@@ -55,10 +51,6 @@ class ReviewController extends Controller
      * @param  \App\Model\Review  $review
      * @return \Illuminate\Http\Response
      */
-    public function edit(Review $review)
-    {
-        //
-    }
 
     /**
      * Update the specified resource in storage.
